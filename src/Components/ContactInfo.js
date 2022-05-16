@@ -29,15 +29,23 @@ function ContactInfo() {
         <h6>stay in touch</h6>
         <div className="sites-div">
           <a href="/">
-            <img className="social-sites" src="/images/twitter@3x.png" alt="" />
-          </a>
-          <a href="/">
-            <img className="social-sites" src="/images/insta@3x.png" alt="" />
+            <img
+              className="social-sites"
+              src="/kicksup/images/twitter@3x.png"
+              alt=""
+            />
           </a>
           <a href="/">
             <img
               className="social-sites"
-              src="/images/facebook@3x.png"
+              src="/kicksup/images/insta@3x.png"
+              alt=""
+            />
+          </a>
+          <a href="/">
+            <img
+              className="social-sites"
+              src="/kicksup/images/facebook@3x.png"
               alt=""
             />
           </a>

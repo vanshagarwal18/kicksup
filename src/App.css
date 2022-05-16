@@ -82,11 +82,12 @@ div.borderXwidth .active:after {
 @media screen and (max-width: 876px) {
   .navdiv {
     flex-direction: column;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
     position: absolute;
     background: white;
     width: 100vw;
     margin-top: 8vh;
-    padding-bottom: 5vh;
+    padding: 4vh 0;
     z-index: 1000000;
   }
   .toggler {

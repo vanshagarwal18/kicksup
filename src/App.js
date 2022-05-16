@@ -8,6 +8,7 @@ import DispatchContext from "./Context/DispatchContext";
 
 //Pages
 import Navbar from "./Components/Navbar";
+import Home from "./Pages/Home";
 import Journey from "./Pages/Journey";
 import Team from "./Pages/Team";
 import Contact from "./Pages/Contact";
@@ -126,6 +127,7 @@ function App() {
           <Router>
             <Navbar />
             <Routes>
+              <Route path="/kicksup" element={<Home />}></Route>
               <Route path="/journey" element={<Journey />}></Route>
               <Route path="/team" element={<Team />}></Route>
               <Route

@@ -470,7 +470,10 @@ function FilterShoes(props) {
                   style={{ textDecoration: "none" }}
                 >
                   <div className="shoecard">
-                    <img src={`/images/${shoe.name + ".png"}`} alt="Shoes" />
+                    <img
+                      src={`/kicksup/images/${shoe.name + ".png"}`}
+                      alt="Shoes"
+                    />
                     <h4 className="shoename">{shoe.name}</h4>
                     <p className="price">
                       Rs.{shoe.price} &nbsp; &nbsp; &nbsp;

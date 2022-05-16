@@ -12,7 +12,7 @@ function TeamInfo() {
         <div className="column col-6 col-sm-6 col-md-4 col-lg-4 col-xl-2">
           <div className="teamcard">
             <div className="people">
-              <img src="/images/zidane.jpg" alt="Zidane" />
+              <img src="/kicksup/images/zidane.jpg" alt="Zidane" />
             </div>
             <div className="people-info">
               <h4 className="name">Zidane</h4>
@@ -22,21 +22,21 @@ function TeamInfo() {
               <a href="/">
                 <img
                   className="people-contact"
-                  src="/images/linkedin.png"
+                  src="/kicksup/images/linkedin.png"
                   alt=""
                 />
               </a>
               <a href="/">
                 <img
                   className="people-contact"
-                  src="/images/medium.png"
+                  src="/kicksup/images/medium.png"
                   alt=""
                 />
               </a>
               <a href="/">
                 <img
                   className="people-contact"
-                  src="/images/facebook@3x.png"
+                  src="/kicksup/images/facebook@3x.png"
                   alt=""
                 />
               </a>
@@ -46,7 +46,7 @@ function TeamInfo() {
         <div className="column col-6 col-sm-6 col-md-4 col-lg-4 col-xl-2">
           <div className="teamcard">
             <div className="people">
-              <img src="/images/tonikroos.jpg" alt="Toni Kroos" />
+              <img src="/kicksup/images/tonikroos.jpg" alt="Toni Kroos" />
             </div>
             <div className="people-info">
               <h4 className="name">Toni Kroos</h4>
@@ -56,14 +56,14 @@ function TeamInfo() {
               <a href="/">
                 <img
                   className="people-contact"
-                  src="/images/linkedin.png"
+                  src="/kicksup/images/linkedin.png"
                   alt=""
                 />
               </a>
               <a href="/">
                 <img
                   className="people-contact"
-                  src="/images/medium.png"
+                  src="/kicksup/images/medium.png"
                   alt=""
                 />
               </a>
@@ -73,7 +73,7 @@ function TeamInfo() {
         <div className="column col-6 col-sm-6 col-md-4 col-lg-4 col-xl-2">
           <div className="teamcard">
             <div className="people">
-              <img src="/images/ikercasillas.jpg" alt="Iker Casillas" />
+              <img src="/kicksup/images/ikercasillas.jpg" alt="Iker Casillas" />
             </div>
             <div className="people-info">
               <h4 className="name">Iker Casillas</h4>
@@ -83,7 +83,7 @@ function TeamInfo() {
               <a href="/">
                 <img
                   className="people-contact"
-                  src="/images/medium.png"
+                  src="/kicksup/images/medium.png"
                   alt=""
                 />
               </a>
@@ -93,7 +93,7 @@ function TeamInfo() {
         <div className="column col-6 col-sm-6 col-md-4 col-lg-4 col-xl-2">
           <div className="teamcard">
             <div className="people">
-              <img src="/images/james.jpg" alt="James" />
+              <img src="/kicksup/images/james.jpg" alt="James" />
             </div>
             <div className="people-info">
               <h4 className="name">James</h4>
@@ -103,21 +103,21 @@ function TeamInfo() {
               <a href="/">
                 <img
                   className="people-contact"
-                  src="/images/linkedin.png"
+                  src="/kicksup/images/linkedin.png"
                   alt=""
                 />
               </a>
               <a href="/">
                 <img
                   className="people-contact"
-                  src="/images/medium.png"
+                  src="/kicksup/images/medium.png"
                   alt=""
                 />
               </a>
               <a href="/">
                 <img
                   className="people-contact"
-                  src="/images/facebook@3x.png"
+                  src="/kicksup/images/facebook@3x.png"
                   alt=""
                 />
               </a>
@@ -127,7 +127,7 @@ function TeamInfo() {
         <div className="column col-6 col-sm-6 col-md-4 col-lg-4 col-xl-2">
           <div className="teamcard">
             <div className="people">
-              <img src="/images/christiano.jpg" alt="Ronaldo" />
+              <img src="/kicksup/images/christiano.jpg" alt="Ronaldo" />
             </div>
             <div className="people-info">
               <h4 className="name">Cristiano</h4>
@@ -137,7 +137,7 @@ function TeamInfo() {
               <a href="/">
                 <img
                   className="people-contact"
-                  src="/images/linkedin.png"
+                  src="/kicksup/images/linkedin.png"
                   alt=""
                 />
               </a>
@@ -145,7 +145,7 @@ function TeamInfo() {
               <a href="/">
                 <img
                   className="people-contact"
-                  src="/images/facebook@3x.png"
+                  src="/kicksup/images/facebook@3x.png"
                   alt=""
                 />
               </a>
