@@ -93,7 +93,6 @@ function FilterShoes(props) {
       );
     });
     setData(newdata);
-    console.log(data);
   };
 
   //Rating calculation function
