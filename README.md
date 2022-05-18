@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+**Deployed site link**
+
+https://incandescent-torrone-47f0a9.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
