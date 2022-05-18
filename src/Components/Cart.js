@@ -52,7 +52,7 @@ function Cart() {
                   ></i>
                   <div className="myshoe">
                     <img
-                      src={`/kicksup/images/${item.name + ".png"}`}
+                      src={`/images/${item.name + ".png"}`}
                       alt="shoes in cart"
                     />
                   </div>

@@ -4,7 +4,7 @@ import React from "react";
 function JourneyContent() {
   return (
     <div className="journeydiv">
-      <img src="/kicksup/images/grasspic.jpg" alt="" />
+      <img src="/images/grasspic.jpg" alt="" />
       <div className="centered">THE JOURNEY</div>
       <ul className="experiences">
         <li>

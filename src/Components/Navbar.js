@@ -7,9 +7,9 @@ function Navbar() {
 
   return (
     <div className="navcontainer greenc borderXwidth">
-      <img src="/kicksup/images/websitelogo.png" alt="" />
+      <img src="/images/websitelogo.png" alt="" />
       <div className={`navdiv +${activeNavbar ? "" : " display-inactive"}`}>
-        <NavLink to="/kicksup" activeclassname="active">
+        <NavLink to="/" activeclassname="active">
           HOME
         </NavLink>
         <NavLink to="/journey" activeclassname="active">
