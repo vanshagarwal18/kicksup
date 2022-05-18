@@ -80,7 +80,7 @@ function DesignProduct(props) {
           <div className="columndes col-12 col-xl-6 col-lg-6 col-md-12 col-sm-12">
             <img
               className="shoe-design"
-              src={`/images/${da.name + ".png"}`}
+              src={`/kicksup/images/${da.name + ".png"}`}
               alt=""
             />
           </div>
@@ -88,17 +88,17 @@ function DesignProduct(props) {
             <div className="shoe-colour-column-one">
               <img
                 className="shoe-colour-image"
-                src={`/images/${da.name + ".png"}`}
+                src={`/kicksup/images/${da.name + ".png"}`}
                 alt=""
               />
               <img
                 className="shoe-colour-image"
-                src={`/images/${da.name + ".png"}`}
+                src={`/kicksup/images/${da.name + ".png"}`}
                 alt=""
               />
               <img
                 className="shoe-colour-image-last"
-                src={`/images/${da.name + ".png"}`}
+                src={`/kicksup/images/${da.name + ".png"}`}
                 alt=""
               />
             </div>
